@@ -17,7 +17,7 @@ Absolutely a general skeleton.
 ![Shop Homepage Preview](https://github.com/MauMccoy/Urban-Plastic/blob/master/assets/img/urbanPlasticPreview3.png)
 
 ## Preview
-![Shop Homepage Preview](https://github.com/MauMccoy/Urban-Plastic/blob/master/assets/img/urbanPlasticPreview4.png)
+![Shop Homepage Preview](https://github.com/MauMccoy/Urban-Plastic/blob/master/assets/img/urbanPlsasticPreview4.png)
 
 ## Bugs and Issues
 
